@@ -12,6 +12,6 @@ as well to help on the understanding of the concept.
 
 By momentum generating function theory, any fractional moment
 contains the linear combination of infinite order moments, 
-by highly parallel construction of a neuron network 
-interconnecting the momenergy layer, as if we have 
+later on by highly parallel construction of a neuron network 
+interconnecting the momenergy layer, as if we will have 
 an infinite deep network.
